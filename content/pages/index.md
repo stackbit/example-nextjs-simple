@@ -2,6 +2,7 @@
 title: Home Page
 subtitle: This is the home page.
 layout: page
+image: /images/sentidos-humanos-kEq5QH9rUTM-unsplash.jpg
 ---
 
 Laborum sit officia magna duis adipisicing ex non fugiat incididunt sunt. Ex elit reprehenderit reprehenderit et sunt aliquip Lorem. Est esse non ad proident in et. Exercitation est enim eu consequat culpa non quis non fugiat eiusmod excepteur fugiat ipsum.

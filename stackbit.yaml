@@ -10,3 +10,7 @@ models:
     type: page
     label: page
     folder: content/pages
+    match: '*.md'
+    fields:
+      - name: ''
+        type: string

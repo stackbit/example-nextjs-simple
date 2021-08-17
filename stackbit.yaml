@@ -20,4 +20,4 @@ models:
         type: string
         label: Subtitle
       - name: ''
-        type: string
+        type: image

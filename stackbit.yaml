@@ -2,16 +2,16 @@
 # To learn more about stackbit.yaml please visit https://www.stackbit.com/docs/stackbit-yaml/
 stackbitVersion: ~0.3.0
 ssgName: nextjs
-nodeVersion: '12'
+nodeVersion: "12"
 publishDir: out
 cmsName: git
 pagesDir: content/pages
+pageLayoutKey: layout
 models:
   page:
     type: page
     label: page
-    folder: content/pages
-    match: '*.md'
+    match: "*.md"
     fields:
       - name: title
         type: string

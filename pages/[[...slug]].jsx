@@ -1,4 +1,6 @@
+import Image from "next/image";
 import Link from "next/link";
+
 import { getPagePaths, getPageProps, getNavItems } from "../utils/pages";
 
 const Page = (props) => {
@@ -19,6 +21,9 @@ const Page = (props) => {
       <main>
         <h1>{props.page.title}</h1>
         <h2>{props.page.subtitle}</h2>
+        {props.page.image && (
+          <Image src={props.page.image} width={640} height={424} />
+        )}
         <div dangerouslySetInnerHTML={{ __html: props.page.children }} />
       </main>
     </div>

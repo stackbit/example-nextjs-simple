@@ -19,3 +19,5 @@ models:
       - name: subtitle
         type: string
         label: Subtitle
+      - name: ''
+        type: string

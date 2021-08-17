@@ -5,6 +5,11 @@ ssgName: nextjs
 nodeVersion: "12"
 publishDir: out
 cmsName: git
+assets:
+  referenceType: static
+  staticDir: public
+  uploadDir: images
+  publicPath: /
 pagesDir: content/pages
 pageLayoutKey: layout
 models:

@@ -18,3 +18,4 @@ models:
         required: true
       - name: Subtitle
         type: string
+        label: Subtitle

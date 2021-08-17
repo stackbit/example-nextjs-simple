@@ -28,7 +28,6 @@ export async function getPagePaths() {
 
 async function getPageFileFromSlug(slug) {
   const pagePaths = await getPageFilePathRefs();
-  console.log(pagePaths);
   return pagePaths[slug];
 }
 

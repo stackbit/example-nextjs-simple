@@ -5,6 +5,7 @@ ssgName: nextjs
 nodeVersion: '12'
 publishDir: out
 cmsName: git
+pagesDir: content/pages
 models:
   page:
     type: page

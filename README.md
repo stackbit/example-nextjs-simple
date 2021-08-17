@@ -1,3 +1,8 @@
+TODO:
+
+- [ ] The home page became not editable when I added an image. See if I can get annotations to work.
+- [ ] Creating a new page does not add a `layout` to its frontmatter. Does this matter?
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

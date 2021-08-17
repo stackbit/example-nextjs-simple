@@ -9,3 +9,4 @@ models:
   page:
     type: page
     label: page
+    folder: content/pages

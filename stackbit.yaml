@@ -11,7 +11,7 @@ models:
   page:
     type: page
     label: page
-    match: "*.md"
+    # match: "*.md"
     fields:
       - name: title
         type: string

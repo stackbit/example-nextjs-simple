@@ -12,5 +12,5 @@ models:
     folder: content/pages
     match: '*.md'
     fields:
-      - name: ''
+      - name: Title
         type: string

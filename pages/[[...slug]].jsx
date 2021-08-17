@@ -20,7 +20,7 @@ const Page = (props) => {
 
       <main>
         <h1>{props.page.title}</h1>
-        <h2>{props.page.subtitle}</h2>
+        <h2 data-sb>{props.page.subtitle}</h2>
         {props.page.image && (
           <Image src={props.page.image} width={640} height={424} />
         )}

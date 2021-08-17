@@ -19,5 +19,5 @@ models:
       - name: subtitle
         type: string
         label: Subtitle
-      - name: ''
+      - name: image
         type: image

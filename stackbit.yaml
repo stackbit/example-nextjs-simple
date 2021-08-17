@@ -16,3 +16,5 @@ models:
         type: string
         label: Title
         required: true
+      - name: ''
+        type: string

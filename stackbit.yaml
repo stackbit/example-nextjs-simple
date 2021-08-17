@@ -21,3 +21,4 @@ models:
         label: Subtitle
       - name: image
         type: image
+        label: Image

@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Home
 subtitle: This is the home page.
 layout: page
 image: /images/sentidos-humanos-kEq5QH9rUTM-unsplash.jpg

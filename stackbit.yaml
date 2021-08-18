@@ -29,3 +29,4 @@ models:
         label: Image
       - name: layout
         type: string
+        label: Layout

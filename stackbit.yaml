@@ -53,12 +53,3 @@ models:
       - name: image
         type: image
         label: Image
-        # Generates a hidden, read-only property for each page that ties it to
-        # this model when editing.
-      - name: layout
-        type: string
-        label: Layout
-        hidden: true
-        required: true
-        const: page
-        readOnly: true

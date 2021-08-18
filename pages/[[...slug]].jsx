@@ -21,13 +21,13 @@ const Page = (props) => {
       <main data-sb-object-id={props.page.id}>
         <h1 data-sb-field-path="title">{props.page.title}</h1>
         <h2>{props.page.subtitle}</h2>
-        {/* {props.page.image && (
+        {props.page.image && (
           <Image
             src={props.page.image}
             width={640}
             height={424}
           />
-        )} */}
+        )}
         <div
           dangerouslySetInnerHTML={{ __html: props.page.children }}
         />

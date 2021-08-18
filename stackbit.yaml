@@ -30,7 +30,7 @@ models:
       - name: layout
         type: string
         label: Layout
-        default: page
         hidden: true
         required: true
         const: page
+        readOnly: true

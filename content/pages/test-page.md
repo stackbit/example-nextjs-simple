@@ -2,6 +2,7 @@
 title: lorem-ipsum
 subtitle: lorem-ipsum
 layout: page
+image: /images/sentidos-humanos-kEq5QH9rUTM-unsplash.jpg
 ---
 ## Lorem ipsum
 

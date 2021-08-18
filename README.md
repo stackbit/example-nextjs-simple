@@ -2,6 +2,12 @@
 
 This is an example project built to explain the very basics of how Stackbit works. [Read the guide here](https://www.stackbit.com/docs/reference/examples/simple-nextjs/).
 
+## Clone in Stackbit
+
+You can clone this project into your own Stackbit project
+
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit/example-nextjs-simple)
+
 ## Running Locally
 
 After cloning, install dependencies:
@@ -14,6 +20,6 @@ Then run the development server:
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Clone in Stackbit
+## Support
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-universal)
+If you have questions or suggestions, [contact support via email](mailto:support@stackbit.com).

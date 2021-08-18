@@ -1,7 +1,6 @@
 ---
 title: About Page - Test
 subtitle: This is another page.
-layout: page
 ---
 
 Cillum voluptate eiusmod in voluptate consectetur enim laborum minim. Sunt pariatur labore in ullamco tempor. Nostrud aute est eiusmod eiusmod nulla aliquip adipisicing officia id eiusmod aliqua incididunt occaecat duis.

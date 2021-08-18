@@ -33,7 +33,7 @@ pagesDir: content/pages
 pageLayoutKey: layout
 
 logicFields:
-  - page
+  - page.image
 
 # These are the models of the website
 # for more info about models visit: https://www.stackbit.com/docs/reference/stackbit-yaml/models/

@@ -32,7 +32,8 @@ pagesDir: content/pages
 # belonging to different models are located in the same folder
 pageLayoutKey: layout
 
-logicFields
+logicFields:
+  - page
 
 # These are the models of the website
 # for more info about models visit: https://www.stackbit.com/docs/reference/stackbit-yaml/models/

@@ -32,3 +32,4 @@ models:
         label: Layout
         default: page
         hidden: true
+        required: true

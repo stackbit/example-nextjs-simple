@@ -33,3 +33,4 @@ models:
         default: page
         hidden: true
         required: true
+        const: page

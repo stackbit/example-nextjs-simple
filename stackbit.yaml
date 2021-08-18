@@ -32,6 +32,7 @@ pagesDir: content/pages
 # belonging to different models are located in the same folder
 pageLayoutKey: layout
 
+# This is a temporary workaround to get the images to work properly in the editor.
 logicFields:
   - page.image
 

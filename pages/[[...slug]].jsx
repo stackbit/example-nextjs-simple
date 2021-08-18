@@ -30,7 +30,7 @@ const Page = (props) => {
           />
         )}
         <div
-          data-sb-field-path="content"
+          data-sb-field-path="markdown_content"
           dangerouslySetInnerHTML={{ __html: props.page.children }}
         />
       </main>

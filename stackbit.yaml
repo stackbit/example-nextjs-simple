@@ -38,6 +38,7 @@ models:
   page:
     type: page
     label: page
+    
     fields:
       - name: title
         type: string

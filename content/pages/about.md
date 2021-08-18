@@ -1,5 +1,5 @@
 ---
-title: About Page - Test
+title: About Page
 subtitle: This is another page.
 ---
 

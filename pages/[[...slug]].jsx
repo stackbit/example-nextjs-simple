@@ -19,12 +19,20 @@ const Page = (props) => {
       <hr />
 
       <main data-sb-object-id={props.page.id}>
-        <h1>{props.page.title}</h1>
-        <h2 data-sb-field-path="title">{props.page.subtitle}</h2>
+        <h1 data-sb-field-path="title">{props.page.title}</h1>
+        <h2 data-sb-field-path="subtitle">{props.page.subtitle}</h2>
         {props.page.image && (
-          <Image src={props.page.image} width={640} height={424} />
+          <Image
+            data-sb-field-path="image#@src"
+            src={props.page.image}
+            width={640}
+            height={424}
+          />
         )}
-        <div dangerouslySetInnerHTML={{ __html: props.page.children }} />
+        <div
+          data-sb-field-path="content"
+          dangerouslySetInnerHTML={{ __html: props.page.children }}
+        />
       </main>
     </div>
   );

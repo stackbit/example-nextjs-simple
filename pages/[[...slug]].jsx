@@ -18,9 +18,9 @@ const Page = (props) => {
 
       <hr />
 
-      <main>
+      <main data-sb-object-id={props.page.id}>
         <h1>{props.page.title}</h1>
-        <h2>{props.page.subtitle}</h2>
+        <h2 data-sb-field-path="title">{props.page.subtitle}</h2>
         {props.page.image && (
           <Image src={props.page.image} width={640} height={424} />
         )}

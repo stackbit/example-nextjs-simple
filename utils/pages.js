@@ -37,6 +37,7 @@ export async function getPageProps(slug) {
   const fileContent = fs.readFileSync(pageFilePath).toString();
   const { data, content } = matter(fileContent);
   let props = { ...data };
+  props.id = pageFilePath.replace(process.cwd(), "").slice(1);
   if (content) props.children = md.render(content);
 
   return props;

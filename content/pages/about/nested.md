@@ -1,7 +1,6 @@
 ---
 title: Nested Page
 subtitle: This is a page with a nested path.
-layout: page
 ---
 
 Eu elit Lorem do eiusmod ut fugiat aliquip. Aliqua non officia proident Lorem ad ullamco fugiat in enim irure commodo. Excepteur esse sit aliquip aute voluptate dolore adipisicing cillum quis Lorem mollit est enim quis. Excepteur aliqua labore dolore Lorem quis ipsum quis velit Lorem nulla. Ad occaecat adipisicing est mollit magna enim in. Voluptate ea id laborum velit minim. Occaecat duis amet voluptate deserunt id pariatur magna voluptate magna.

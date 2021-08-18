@@ -31,3 +31,4 @@ models:
         type: string
         label: Layout
         default: page
+        hidden: true

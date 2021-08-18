@@ -2,6 +2,7 @@
 title: About Page
 subtitle: This is another page.
 layout: page
+image: /images/sentidos-humanos-kEq5QH9rUTM-unsplash.jpg
 ---
 
 Cillum voluptate eiusmod in voluptate consectetur enim laborum minim. Sunt pariatur labore in ullamco tempor. Nostrud aute est eiusmod eiusmod nulla aliquip adipisicing officia id eiusmod aliqua incididunt occaecat duis.

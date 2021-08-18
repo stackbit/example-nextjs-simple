@@ -27,5 +27,5 @@ models:
       - name: image
         type: image
         label: Image
-      - name: ''
+      - name: layout
         type: string

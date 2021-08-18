@@ -2,7 +2,7 @@
 # To learn more about stackbit.yaml please visit https://www.stackbit.com/docs/stackbit-yaml/
 stackbitVersion: ~0.3.0
 ssgName: nextjs
-nodeVersion: "12"
+nodeVersion: '12'
 publishDir: out
 cmsName: git
 assets:
@@ -27,3 +27,5 @@ models:
       - name: image
         type: image
         label: Image
+      - name: ''
+        type: string
